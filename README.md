@@ -25,8 +25,21 @@ PROGRAMMING ASSIGNMENT:  Color Learning and Target Detection	26
 ### 2.3.	MAP Estimate of KF – Maximum-A-Posterior Estimation	31
 ### 2.4.	Non-Linear Variations – Extended Kalman and Unscented Kalman Filter	37
 PROGRAMMING ASSIGNMENT:  Kalman Filter Tracking	40
-## 3.	Mapping	41
-PROGRAMMING ASSIGNMENT:  2D Occupancy Grid Mapping	41
-## 4.	Bayesian Estimation – Localization	41
-PROGRAMMING ASSIGNMENT:  Particle Filter Based Localization	41
 
+## 3.	Mapping
+### 3.1.	Robotic Mapping	
+3.1.1.	Metric Map	
+
+3.1.2.	Topological Map	
+
+3.1.3.	Semantic Map	
+### 3.2.	Occupancy Grid Mapping	
+3.2.1.	Occupancy Grid Map	
+
+3.2.2.	Log-odd Update	
+
+3.2.3.	Handling Range Sensor	
+### 3.3.	3D Mapping	
+PROGRAMMING ASSIGNMENT:  2D Occupancy Grid Mapping	
+## 4.	Bayesian Estimation – Localization	
+PROGRAMMING ASSIGNMENT:  Particle Filter Based Localization	
